@@ -1,0 +1,9 @@
+.menu {
+    display: flex;
+
+}
+
+.menu a {
+    padding: 10px;
+    background: #ff2fff;
+}
